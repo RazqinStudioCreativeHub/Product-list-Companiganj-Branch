@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+Welcome to Your Product list Companiganj Branch You can find your arraival product By
 
-You can use the [editor on GitHub](https://github.com/RazqinStudioCreativeHub/Product-list-Companiganj-Branch/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Arraivalday---Code———Your Name —– Your Mobile Number(last 3 digit)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+such as :
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+25/12/2020—-A50—–Ayon Chawdury——(**225)
 
-```markdown
-Syntax highlighted code block
+25/12/2020—-A51—–Sumiaya Akhter—–(*668)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+Your Have to verify by your mobile number to receive your product & correct identification so please bring your mobile with same cellular number issued noted by the sender.
 
-1. Numbered
-2. List
+Your Best Wishes -Sundarban curier service chandina Branch ________________ ________________ ________________ ________________ ________________ ________________
 
-**Bold** and _Italic_ and `Code` text
+10/10/2020—-A25——–nadim parvez rinku—-**042
 
-[Link](url) and ![Image](src)
-```
+10/10/2020—-A24——–Nur Uddin—-**988
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RazqinStudioCreativeHub/Product-list-Companiganj-Branch/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+8/10/2020A26—–A27—-jahanara—–**334
